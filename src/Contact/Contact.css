@@ -1,0 +1,62 @@
+.Contact .active {
+  color: #fff;
+}
+
+.Contact .navbar {
+  border-radius: 0;
+}
+
+.Contact h1 {
+  margin: 0;
+  letter-spacing: 1px;
+  font-size: 20px;
+  color: white;
+}
+
+.Contact .navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.Contact .navbar-inverse {
+  background-color: black;
+  border: none;
+}
+
+.Contact .header1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Contact p {
+  font-size: 10px;
+  margin-bottom: 5px;
+  /*height: 100%;
+  width: 100%;*/
+}
+
+.Contact .register {
+  /*height: 30px;*/
+  /*width: 30px;*/
+  /*display: flex;*/
+  /*align-items: flex-end;
+  justify-content: center;
+  align-self: baseline;*/
+}
+
+.Contact .footer {
+  position: fixed;
+  height: 70px;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Contact .linked {
+  margin-right: 10px;
+}

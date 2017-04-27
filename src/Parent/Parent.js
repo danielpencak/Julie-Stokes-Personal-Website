@@ -10,7 +10,10 @@ const Parent = createReactClass({
   render() {
     return (
       <div className="Parent">
-        <Header/>
+        {/* <Header/> */}
+        {/* <footer className="footer">
+          <a href="https://www.linkedin.com/in/juliekaystokes/" className="linked"><img src="/assets/images/linkedIn.png" /></a>
+        </footer> */}
       </div>
     );
   }

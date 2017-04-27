@@ -13,7 +13,12 @@ const Header = createReactClass({
         <Navbar inverse collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <h1 onClick={() => browserHistory.push('/')}>Julie Stokes</h1>
+              <h1 className="header1">
+                Julie Stokes, PMP
+                <div className="register">
+                  <p>{'\u00AE'}</p>
+                </div>
+              </h1>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>

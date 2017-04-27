@@ -1,0 +1,62 @@
+.Home .active {
+  color: #fff;
+}
+
+.Home .navbar {
+  border-radius: 0;
+}
+
+.Home h1 {
+  margin: 0;
+  letter-spacing: 1px;
+  font-size: 20px;
+  color: white;
+}
+
+.Home .navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.Home .navbar-inverse {
+  background-color: black;
+  border: none;
+}
+
+.Home .header1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.Home p {
+  font-size: 10px;
+  margin-bottom: 5px;
+  /*height: 100%;
+  width: 100%;*/
+}
+
+.Home .register {
+  /*height: 30px;*/
+  /*width: 30px;*/
+  /*display: flex;*/
+  /*align-items: flex-end;
+  justify-content: center;
+  align-self: baseline;*/
+}
+
+.Home .footer {
+  position: fixed;
+  height: 70px;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Home .linked {
+  margin-right: 10px;
+}

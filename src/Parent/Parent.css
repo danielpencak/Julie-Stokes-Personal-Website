@@ -1,0 +1,15 @@
+.Parent .footer {
+  position: fixed;
+  height: 70px;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  border: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Parent .linked {
+  margin-right: 10px;
+}
